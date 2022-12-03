@@ -1,1 +1,0 @@
-print("telkom jaya")
